@@ -13,5 +13,6 @@ namespace Domain {
     public string Name => NameFactory.FullName;
     public int CurrentTeamId { get; private set; }
     public List<ManagerTeamHistory> PastTeams { get; set; }
+    //Jim's comment
   }
 }
