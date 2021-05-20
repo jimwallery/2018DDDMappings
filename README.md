@@ -1,4 +1,4 @@
-# 2018DDDMappings
+# 2018DDDMappings by Jim
 Demos and slides from  2018 sessions on Mapping DDD Domains with EF Core 
 It has evolved over the year to keep up with the different versions of EF Core 2.x.
 
